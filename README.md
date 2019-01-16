@@ -55,8 +55,8 @@ For an unordered list, preface each item with a dash and space as shown above.
 Code should be fenced using three backtics ` on the line above and the line below your code. 
 After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Windows terminal commands) or Bash (for Git Bash commands). 
 
-```DOS
-dir
+```Java
+System.out.println("test");
 ```
 
 ## Displaying Images
@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://commons.wikimedia.org/wiki/Category:Cornbread#/media/File:Cornbread_in_cast_iron_pan.jpg "Yummy")
+![Hosted image](https://github.com/RandallZPorter/working-with-markdown/blob/master/800px-Cornbread_in_cast_iron_pan.jpg "Yummy")
 
 ## Displaying Local Images
 
