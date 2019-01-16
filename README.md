@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Randall Porter
 
-dcase@nwmissouri.edu
+s524409@nwmissouri.edu
 
 ## New Section 
 
