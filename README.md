@@ -71,7 +71,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
+![oo ee oo ah ah ting tang walla walla bing bang](https://github.com/RandallZPorter/working-with-markdown/blob/master/Os400.png "Example local image")
 
 ## Paragraphs
 
