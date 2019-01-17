@@ -84,7 +84,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![Local Image](https://github.com/RandallZPorter/working-with-markdown/blob/master/Os400.png "An OS400 Terminal")
+![Local Image](working-with-markdown/Os400.png "An OS400 Terminal")
 
 ## Paragraphs
 
