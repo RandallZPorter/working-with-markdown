@@ -65,13 +65,13 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://github.com/RandallZPorter/working-with-markdown/blob/master/800px-Cornbread_in_cast_iron_pan.jpg "Yummy")
+![Hosted image](https://commons.wikimedia.org/wiki/Category:Cornbread#/media/File:Cornbread_in_cast_iron_pan.jpg "Yummy")
 
 ## Displaying Local Images
 
 You can also upload an image into your repo. 
 
-![oo ee oo ah ah ting tang walla walla bing bang](https://github.com/RandallZPorter/working-with-markdown/blob/master/Os400.png "Example local image")
+![Local Image](https://github.com/RandallZPorter/working-with-markdown/blob/master/Os400.png "An OS400 Terminal")
 
 ## Paragraphs
 
