@@ -11,8 +11,8 @@ Things I have done to this README.md file, in roughly the order I did them:
 
 What I think I have left to do:
 - Add an unordered list (I guess that is done now)
-- Commit my changes
-- Share the link to this page
+- Commit my changes (done)
+- Share the link to this page (done)
 
 ## Links
 
