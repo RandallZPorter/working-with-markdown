@@ -3,16 +3,16 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## My Custom Heading
 Things I have done to this README.md file, in roughly the order I did them:
-1.Added a local image
-1.Added a hosted image
-1.Changed the alt texts of the images
-1.Added a custom heading
-1.Made this list
+1. Added a local image
+1. Added a hosted image
+1. Changed the alt texts of the images
+1. Added a custom heading
+1. Made this list
 
 What I think I have left to do:
--Add an unordered list (I guess that is done now)
--Commit my changes
--Share the link to this page
+- Add an unordered list (I guess that is done now)
+- Commit my changes
+- Share the link to this page
 
 ## Links
 
